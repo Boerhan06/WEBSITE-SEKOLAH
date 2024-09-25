@@ -22,7 +22,7 @@ Website ini dirancang untuk memberikan informasi lengkap tentang sekolah, termas
 
 # Instalasi
 1. Clone repositori in :
-git clone https://github.com/username/website-sekolah.git
+git clone https://github.com/boerhan06/website-sekolah.git
 2. Masuk ke direktori proyek :
 cd website-sekolah
 3. Instal dependensi (jika ada) :
