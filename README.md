@@ -22,18 +22,29 @@ Website ini dirancang untuk memberikan informasi lengkap tentang sekolah, termas
 
 # Instalasi
 1. Clone repositori in :
+```
 git clone https://github.com/boerhan06/website-sekolah.git
-2. Masuk ke direktori proyek :
+```
+3. Masuk ke direktori proyek :
+```
 cd website-sekolah
-3. Instal dependensi (jika ada) :
+```
+4. Instal dependensi (jika ada) :
+```
 npm install
-4. Konfigurasi basis data di config.php :
+```
+5. Konfigurasi basis data di config.php :
+```
 define('DB_SERVER', 'localhost');
 define('DB_USERNAME', 'root');
 define('DB_PASSWORD', '');
 define('DB_NAME', 'nama_database');
+```
+
 5. Jalankan server lokal:
+```
 php -S localhost:8000
+```
 
 # Penggunaan
 Buka browser dan akses http://localhost:8000.
