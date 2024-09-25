@@ -40,6 +40,3 @@ Buka browser dan akses http://localhost:8000.
 Jelajahi halaman-halaman yang tersedia dan nikmati fitur-fitur yang disediakan.
 # Kontribusi
 Kami menyambut kontribusi dari siapa saja! Jika Anda ingin berkontribusi, silakan fork repositori ini dan buat pull request dengan perubahan yang Anda usulkan.
-# Lisensi
-Proyek ini dilisensikan di bawah lisensi MIT. Lihat file LICENSE untuk informasi lebih lanjut.
-   
